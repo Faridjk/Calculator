@@ -44,7 +44,7 @@ form input {
 }
 @media(max-width: 768px) {
     .parent {
-        width: 80%;
+        width: 90%;
     }
     input{
         padding: 15px 0;
